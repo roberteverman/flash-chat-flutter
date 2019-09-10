@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992841976577",
+    "firebase_url": "https://flash-chat-24554.firebaseio.com",
+    "project_id": "flash-chat-24554",
+    "storage_bucket": "flash-chat-24554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992841976577:android:b0bd33b97d037eb33ee900",
+        "android_client_info": {
+          "package_name": "com.evercool.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992841976577-8dibiro6pot1ctud8i43kokk6l3h1302.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr30HiBpZUs79T16CnaSeLTFr6gkerYUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992841976577-8dibiro6pot1ctud8i43kokk6l3h1302.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
